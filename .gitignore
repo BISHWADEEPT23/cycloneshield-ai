@@ -26,3 +26,7 @@ Thumbs.db
 # Firebase local files
 .firebase/
 firebase-debug.log
+
+# Antigravity local artifacts
+.agents/
+skills-lock.json
